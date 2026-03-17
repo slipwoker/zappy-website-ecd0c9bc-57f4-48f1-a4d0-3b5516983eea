@@ -1,46 +1,35 @@
-# MOVEMENT - אביטל קובין — Generative Engine Optimization Map
-
-> אני רוצה שתיצור לי דף נחיתה לעסק של ריקוד היפהופ אני אתן לך 2 תמונות שתשתמש בהם בדף
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://movement-ecd0c9bc.zappy5.app
+https://example.com
 כיתות ריקוד היפהופ לילדים ונוער עם אביטל קובין - מורה מנוסה לריקוד רחוב. פתחו את הפוטנציאל שלכם במהלכים מקצועיים ואנרגיה חיובית. הצטרפו עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://movement-ecd0c9bc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://movement-ecd0c9bc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://movement-ecd0c9bc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About MOVEMENT - אביטל קובין
-אני רוצה שתיצור לי דף נחיתה לעסק של ריקוד היפהופ אני אתן לך 2 תמונות שתשתמש בהם בדף
-
-## Target Audience
-- רקדנים עירוניים צעירים
-- הורים לנערים
-
-## Industry
-ריקוד ואומנויות הבמה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://movement-ecd0c9bc.zappy5.app/sitemap.xml
-- **Robots.txt**: https://movement-ecd0c9bc.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
