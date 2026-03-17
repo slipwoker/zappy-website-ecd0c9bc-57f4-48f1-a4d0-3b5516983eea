@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://movement-ecd0c9bc.zappy5.app/sitemap.xml
